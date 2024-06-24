@@ -6,4 +6,4 @@ Analysis of five major NASDAQ stocks: Apple (AAPL), Microsoft (MSFT), Amazon (AM
 Estimation of alpha and beta coefficients for each stock using ordinary least squares method  \
 Verification of statistical significance for alpha and beta Security Market Line (SML) analysis  \
 Extension to a multifactor model including inflation as an additional factor Comprehensive insights into the influence of market returns and inflation on stock performance
- \
+ 
